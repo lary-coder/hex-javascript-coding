@@ -15,4 +15,3 @@ if (isNaN(x)) {
 } else {
   console.log(factorial(x));
 }
-
